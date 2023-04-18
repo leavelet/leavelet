@@ -1,7 +1,7 @@
 # About Me:
 
 - Student at Peking University majoring in computer science
-- Chairman of [Linux Club of Peking University](github.com/lcpu-club/)
+- Chairman of [Linux Club of Peking University](https://github.com/lcpu-club/)
 - Love HPC and heterogeneous computing
 - Member of PKU Supercomputing team
 - One of the initiators PKU HPCGame of [PKU HPCGame](https://hpcgame.pku.edu.cn), director of 0th round
