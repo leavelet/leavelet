@@ -7,18 +7,18 @@
 
 ## About me
 - Student at Peking University majoring in computer science
-- Chairman of [Linux Club of Peking University](https://github.com/lcpu-club/) from 2022 to 2023
+- Former chairman of [Linux Club of Peking University](https://github.com/lcpu-club/) from 2022 to 2023
 - Love HPC and heterogeneous computing
-- Member of PKU Supercomputing team
+- Leader of PKU Supercomputing team
 - One of the initiators PKU HPCGame of [PKU HPCGame](https://hpcgame.pku.edu.cn), director of 0th round
 
 ## 中文介绍
 
 - 北大信科21级学生，计算机专业
-- 北大 Linux 俱乐部社长（2022-2023）
+- 北大 Linux 俱乐部前社长（2022-2023）
 - 喜欢玩超算和异构计算
-- 北大超算队成员
-- 北京大学高性能计算综合能力竞赛（PKU HPCGame）共同发起人，第零届比赛负责人
+- 北大超算队队长
+- 北京大学高性能计算综合能力竞赛（PKU HPCGame）共同发起人，比赛负责人
 
 
 ## Tech Stack
